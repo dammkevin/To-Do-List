@@ -38,6 +38,7 @@
 		6CB4B4652C1A2022007A7F2C /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CB4B4642C1A2022007A7F2C /* LoginViewViewModel.swift */; };
 		6CB4B4672C1A2047007A7F2C /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CB4B4662C1A2047007A7F2C /* RegisterViewViewModel.swift */; };
 		6CB4B4692C1A205A007A7F2C /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CB4B4682C1A205A007A7F2C /* ToDoListItemViewViewModel.swift */; };
+		6CB4B46B2C1A29A8007A7F2C /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CB4B46A2C1A29A8007A7F2C /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +85,7 @@
 		6CB4B4642C1A2022007A7F2C /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		6CB4B4662C1A2047007A7F2C /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		6CB4B4682C1A205A007A7F2C /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
+		6CB4B46A2C1A29A8007A7F2C /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -186,6 +188,7 @@
 				6CB4B4522C10BE53007A7F2C /* LoginView.swift */,
 				6CB4B4542C10BE6F007A7F2C /* RegisterView.swift */,
 				6CB4B4562C10BEBB007A7F2C /* ToDoListItemView.swift */,
+				6CB4B46A2C1A29A8007A7F2C /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -368,6 +371,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6CB4B4532C10BE53007A7F2C /* LoginView.swift in Sources */,
+				6CB4B46B2C1A29A8007A7F2C /* HeaderView.swift in Sources */,
 				6CB4B45D2C1A1FD2007A7F2C /* ContentViewViewModel.swift in Sources */,
 				6CB4B4672C1A2047007A7F2C /* RegisterViewViewModel.swift in Sources */,
 				6C7A54CE2C0EED21003FC649 /* ContentView.swift in Sources */,
